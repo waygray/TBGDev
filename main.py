@@ -24,10 +24,10 @@ def get_input():
 
 
 
+
 def main():
     get_player_name()
     start_game()
-    game_loop()
 
 if __name__ == '__main__':
     main()
