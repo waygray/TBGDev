@@ -14,7 +14,7 @@ def start_game():
     )
     print("    If you want to quit the game at any point, simply type 'quit'.\n")
 
-
+def get_input():
 
 
 
